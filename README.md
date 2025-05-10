@@ -25,4 +25,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omaarjb&show_icons=true" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omaarjb&show_icons=true&locale=en" alt="omaarjb" /></p>
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=omaarjb&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###

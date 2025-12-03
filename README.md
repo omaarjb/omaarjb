@@ -45,6 +45,5 @@
 
 ###
 
-### 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/omaarjb/omaarjb/output/snake.svg)

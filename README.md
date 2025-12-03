@@ -41,9 +41,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=omaarjb&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<div align="center"> <img src="https://github-readme-streak-stats-eight.vercel.app?user=omaarjb&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&v=1" height="220" alt="streak graph" /> </div>
 
 ###
 
